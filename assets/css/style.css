@@ -48,32 +48,32 @@ This files table contents are outlined below>>>>>
 /*
 Every Pages Imported Style
 ============================*/
-@import url(./pages-css/default.css);
-@import url(./pages-css/main-default-content.css);
-@import url(./pages-css/top-header.css);
-@import url(./pages-css/navbar.css);
-@import url(./pages-css/gallery.css);
-@import url(./pages-css/coming-soon.css);
-@import url(./pages-css/404.css);
-@import url(./pages-css/admissions.css);
-@import url(./pages-css/faq.css);
-@import url(./pages-css/tuition-fees.css);
-@import url(./pages-css/products.css);
-@import url(./pages-css/product-details.css);
-@import url(./pages-css/cart.css);
-@import url(./pages-css/wishlist.css);
-@import url(./pages-css/checkout.css);
-@import url(./pages-css/event-details.css);
-@import url(./pages-css/courses-details.css);
-@import url(./pages-css/blog.css);
-@import url(./pages-css/blog-details.css);
-@import url(./pages-css/my-account.css);
-@import url(./pages-css/register.css);
-@import url(./pages-css/contact.css);
-@import url(./pages-css/application.css);
-@import url(./pages-css/page-title.css);
-@import url(./pages-css/others.css);
-@import url(./pages-css/footer.css);
+@import './pages-css/default.css';
+@import './pages-css/main-default-content.css';
+@import './pages-css/top-header.css';
+@import './pages-css/navbar.css';
+@import './pages-css/gallery.css';
+@import './pages-css/coming-soon.css';
+@import './pages-css/404.css';
+@import './pages-css/admissions.css';
+@import './pages-css/faq.css';
+@import './pages-css/tuition-fees.css';
+@import './pages-css/products.css';
+@import './pages-css/product-details.css';
+@import './pages-css/cart.css';
+@import './pages-css/wishlist.css';
+@import './pages-css/checkout.css';
+@import './pages-css/event-details.css';
+@import './pages-css/courses-details.css';
+@import './pages-css/blog.css';
+@import './pages-css/blog-details.css';
+@import './pages-css/my-account.css';
+@import './pages-css/register.css';
+@import './pages-css/contact.css';
+@import './pages-css/application.css';
+@import './pages-css/page-title.css';
+@import './pages-css/others.css';
+@import './pages-css/footer.css';
 /*
 Search Modal Area Style
 ======================================================*/
